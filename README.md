@@ -67,3 +67,9 @@ Language: Kotlin
 UI: Jetpack Compose
 
 Minimum SDK: API 24
+
+<img width="412" height="917" alt="Ana Sayfa takvim" src="https://github.com/user-attachments/assets/f99e5bbc-5e92-4035-9d31-37b58fd78548" />
+<img width="412" height="917" alt="Giriş Paneli" src="https://github.com/user-attachments/assets/12fc3835-5baa-4b47-8222-35e87cdc1105" />
+<img width="412" height="917" alt="Arıza Kaydı Oluştur" src="https://github.com/user-attachments/assets/8f46e195-5f42-4467-a56a-b255fa6ef7fb" />
+<img width="412" height="917" alt="Profil" src="https://github.com/user-attachments/assets/081b0201-e4c0-4f86-9a14-8512e9fc128c" />
+
