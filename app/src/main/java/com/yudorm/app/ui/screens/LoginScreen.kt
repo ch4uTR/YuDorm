@@ -53,6 +53,7 @@ fun LoginScreen(
 
         Text(
             text = "Öğrenci no",
+            fontSize = 18.sp,
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(bottom = 8.dp),
@@ -76,6 +77,7 @@ fun LoginScreen(
 
         Text(
             text = "Şifre",
+            fontSize = 18.sp,
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(bottom = 8.dp),
@@ -88,6 +90,7 @@ fun LoginScreen(
             modifier = Modifier.fillMaxWidth(),
             shape = RoundedCornerShape(24.dp),
             singleLine = true,
+           // visualTransformation = PasswordVisualTransformation(),
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Password),
             colors = OutlinedTextFieldDefaults.colors(
                 unfocusedContainerColor = Color.White,
@@ -101,6 +104,7 @@ fun LoginScreen(
 
         Text(
             text = "Şifrenizi mi unuttunuz?",
+            fontSize = 18.sp,
             color = AppBlue,
             fontWeight = FontWeight.SemiBold,
             modifier = Modifier
@@ -113,6 +117,7 @@ fun LoginScreen(
 
         Text(
             text = "Kayıtlı değil misiniz? Kayıt ol",
+            fontSize = 18.sp,
             color = AppBlue,
             fontWeight = FontWeight.SemiBold,
             modifier = Modifier
